@@ -1,0 +1,19 @@
+.profile{
+    size: 200px,200px;
+}
+
+.name{
+    background: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+}
+
+.links{
+
+}
+
+.about{
+    float: down;
+}
